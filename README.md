@@ -3,7 +3,7 @@
 My name is Alex and I am a Computer Engineering student at UWaterloo. This is where I share my projects, work, and experimental tinkering 💭
 
 ## My Experiences 👨‍💻
-- Software Developer Intern @ [Trend Micro](https://www.trendmicro.com/en_ca/business.html) | Developing backend services for the [Cloud One]([url](https://cloudone.trendmicro.com/)) platform ☁️
+- Software Developer Intern @ [Trend Micro](https://www.trendmicro.com/en_ca/business.html) | Developing backend services for the [Cloud One](https://cloudone.trendmicro.com/) platform ☁️
 - AI/ML Engineering Intern @ [Eon Media](https://eonmedia.ai/) | Training and deploying machine learning models for [GovSessions Insights](https://eonmedia.ai/govsessions-insights/) 🤖
 - Software Developer Intern @ [Escape](https://www.esc-ape.ca/) | Developing a mobile app MVP with Flutter 📱
 
