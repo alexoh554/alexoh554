@@ -8,8 +8,8 @@ My name is Alex and I am a Computer Engineering student at UWaterloo. This is wh
 - Software Developer Intern @ [Escape](https://www.esc-ape.ca/) | Developing a mobile app MVP with Flutter 📱
 
 ## My Links 🔗
-- Check out my [personal website](https://alexoh554.github.io/), where I blog my learning and achievements
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/alexoh554/)
+- Check out my [personal website](https://alexoh554.github.io/), where I blog my learning and achievements 📝
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/alexoh554/) 🤝
 
 <!--
 **alexoh554/alexoh554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
