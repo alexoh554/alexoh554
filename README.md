@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Alex and I am a Computer Engineering at UWaterloo. Here you can find the repositories for my projects, work, and some tinkering I do. 
+
+Check out my [personal website]([url](https://alexoh554.github.io/)), where I blog my learning and achievements!
+
 <!--
 **alexoh554/alexoh554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
