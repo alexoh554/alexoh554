@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Alex and I am a Computer Engineering at UWaterloo. This is where I share my projects, work, and experimental tinkering. 
+My name is Alex and I am a Computer Engineering student at UWaterloo. This is where I share my projects, work, and experimental tinkering. 
 
 Check out my [personal website](https://alexoh554.github.io/), where I blog my learning and achievements!
 
