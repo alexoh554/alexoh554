@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Alex and I am a Computer Engineering student at UWaterloo. This is where I share my projects, work, and experimental tinkering 💭
+My name is Alex and I am a Computer Engineering student at UWaterloo
 
 ## My Experiences 👨‍💻
 - Software Developer Intern @ [Trend Micro](https://www.trendmicro.com/en_ca/business.html) | Developing backend services for the [Cloud One](https://cloudone.trendmicro.com/) platform ☁️
