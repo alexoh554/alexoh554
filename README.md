@@ -1,3 +1,3 @@
 # Hi there 👋
 
-My name is Alex and I am a Computer Engineering student at UWaterloo
+My name is Alex and I'm currently studying Computer Engineering at UWaterloo 
